@@ -5,9 +5,9 @@ To determine if the weather will be suitable year round for a surf - ice cream s
 
 ## Results
 The following variances were found between the June and December temperature data collection
-    * The month of June had a higher count of different temperatures (1700) compared to the month of December (1517)
-    * The average temperature in June was 74.9 degrees, while in December it was 71 degrees
-    * The minimum temperature in June was 64 degrees and in December it was 56 degrees.
+ -- The month of June had a higher count of different temperatures (1700) compared to the month of December (1517)
+ -- The average temperature in June was 74.9 degrees, while in December it was 71 degrees
+ -- The minimum temperature in June was 64 degrees and in December it was 56 degrees.
  ![screenshot_June_Temps](https://github.com/VRivera13/surfs_up/blob/main/June%20Temps.png)    ![screenshot_Dec_Temps](https://github.com/VRivera13/surfs_up/blob/main/December%20Temps.png)
 
 
